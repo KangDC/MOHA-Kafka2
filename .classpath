@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/common/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-client-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/common/hadoop-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/yarn/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-api-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/kafka_2.12-1.1.0/libs/kafka-clients-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/kafka_2.12-1.1.0/libs/zkclient-0.10.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/kafka_2.12-1.1.0/libs/kafka_2.12-1.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
